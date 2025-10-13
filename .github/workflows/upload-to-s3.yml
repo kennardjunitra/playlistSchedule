@@ -1,0 +1,34 @@
+# .github/workflows/upload-to-s3.yml
+name: Upload file to S3
+
+on:
+  push:
+    branches: [ main ]
+    # Only run when the file changes (optional)
+    paths:
+      - schedule.txt
+
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write   # needed for OIDC
+      contents: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure AWS credentials (OIDC)
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          role-to-assume: arn:aws:iam::117433956934:role/playlistScheduleWriter
+          aws-region: ap-southeast-1  # use your region
+
+      - name: Upload object to S3 (overwrite/replace)
+        run: |
+          aws s3 cp schedule.txt s3://ypc-batch-file/schedule.txt \
+            --acl private \
+            --content-type "text/plain" \
+            --cache-control "no-cache" \
+            --metadata-directive REPLACE
