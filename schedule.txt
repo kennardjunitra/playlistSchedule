@@ -1,4 +1,4 @@
 {
 	"2025-10-10": ["champions_league", "afc"],
-        "2025-10-15": ["afc","shanghai_masters", "la_liga"]
+        "2025-10-15": ["afc","shanghai_masters", "la_liga", "bundesliga"]
 }
