@@ -1,29 +1,4 @@
 {
-  "timezone": "Asia/Singapore",
-  "defaults": {
-    "privacy": "unlisted",
-    "tags": ["YPC", "auto"]
-  },
-  "days": {
-    "2025-10-08": [
-      {"competition_id": "serie_a"}
-    ],
-    "2025-10-10": [
-      {"competition_id": "champions_league"},
-      {"competition_id": "afc"}
-    ],
-    "2025-10-11": [
-      {"competition_id": "champions_league"},
-      {"competition_id": "afc"}
-    ],
-    "2025-10-12": [
-      {"competition_id": "champions_league"},
-      {"competition_id": "afc"}
-    ],
-    "2025-10-15": [
-      {"competition_id": "shanghai_masters"},
-      {"competition_id": "afc"}
-    ]
-
-  }
+	"2025-10-10": ["champions_league", "afc"],
+        "2025-10-15": ["shanghai_masters", "afc"]
 }
