@@ -20,7 +20,7 @@
       {"competition_id": "champions_league"},
       {"competition_id": "afc"}
     ],
-    "2025-10-13": [
+    "2025-10-15": [
       {"competition_id": "shanghai_masters"},
       {"competition_id": "afc"}
     ]
