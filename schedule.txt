@@ -1,4 +1,12 @@
 {
-	"2025-10-10": ["champions_league", "afc"],
-        "2025-10-15": ["afc","shanghai_masters", "la_liga", "bundesliga"]
+  "2025-10-19": ["premier_league", "la_liga", "bundesliga", "serie_a"],
+  "2025-10-20": ["premier_league", "la_liga", "bundesliga", "serie_a"],
+  "2025-10-21": ["premier_league", "la_liga", "serie_a"],
+  "2025-10-22": ["champions_league"],
+  "2025-10-23": ["champions_league"],
+  "2025-10-25": ["premier_league", "la_liga", "bundesliga", "serie_a"],
+  "2025-10-26": ["premier_league", "la_liga", "bundesliga", "serie_a"],
+  "2025-10-27": ["la_liga", "serie_a"],
+  "2025-10-28": ["la_liga"],
+  "2025-10-30": ["serie_a"]
 }
