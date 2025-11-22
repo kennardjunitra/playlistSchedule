@@ -10,9 +10,10 @@
   "2025-10-29": ["serie_a"],
   "2025-10-30": ["serie_a"],
   "2025-10-31": ["serie_a"],
-  "2025-11-22": ["la_liga", "bundesliga", "serie_a"],
-  "2025-11-23": ["serie_a","la_liga", "bundesliga"],
-  "2025-11-29": ["serie_a","la_liga", "bundesliga"],
+  "2025-11-22": ["la_liga", "bundesliga", "serie_a", "custom"],
+  "2025-11-23": ["serie_a","la_liga", "bundesliga","custom"],
+  "2025-11-24": ["serie_a","la_liga", "bundesliga","custom"],
+  "2025-11-29": ["serie_a","la_liga", "bundesliga","custom"],
   "2025-11-30": ["serie_a","la_liga", "bundesliga"],
   "2025-12-01": ["serie_a","la_liga", "bundesliga"]
 }
