@@ -13,6 +13,8 @@
   "2025-11-22": ["la_liga", "bundesliga", "serie_a", "custom"],
   "2025-11-23": ["serie_a","la_liga", "bundesliga","custom"],
   "2025-11-24": ["serie_a","la_liga", "bundesliga","custom"],
+  "2025-11-26": ["champions_league"],
+  "2025-11-27": ["champions_league"],
   "2025-11-29": ["serie_a","la_liga", "bundesliga","custom"],
   "2025-11-30": ["serie_a","la_liga", "bundesliga"],
   "2025-12-01": ["serie_a","la_liga", "bundesliga"]
