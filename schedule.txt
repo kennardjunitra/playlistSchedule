@@ -28,5 +28,5 @@
   "2025-12-19": ["serie_a"],
   "2025-12-20": ["serie_a","la_liga", "bundesliga","custom"],
   "2025-12-21": ["serie_a","la_liga", "bundesliga","custom"],
-  "2025-12-22": ["serie_a","la_liga", "bundesliga","custom"],
+  "2025-12-22": ["serie_a","la_liga", "bundesliga","custom"]
 }
