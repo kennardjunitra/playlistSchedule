@@ -1,7 +1,7 @@
 {
   "2026-01-02": ["serie_a"],
-  "2026-01-03": ["serie_a","la_liga"],
-  "2026-01-04": ["serie_a","la_liga","custom"],
+  "2026-01-03": ["serie_a"],
+  "2026-01-04": ["serie_a","custom"],
   "2026-01-05": ["serie_a","afcon"],
   "2026-01-06": ["serie_a","afcon"],
   "2026-01-07": ["serie_a"],
