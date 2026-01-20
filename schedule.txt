@@ -9,5 +9,9 @@
   "2026-01-09": ["serie_a", "custom"],
   "2026-01-10": ["serie_a", "bundesliga","custom", "afcon"],
   "2026-01-11": ["serie_a", "bundesliga","custom", "afcon"],
-  "2026-01-12": ["serie_a", "bundesliga","custom"]
+  "2026-01-12": ["serie_a", "bundesliga","custom"],
+  "2026-01-21": ["champions_league"],
+  "2026-01-22": ["champions_league"],
+  "2026-01-28": ["champions_league"],
+  "2026-01-29": ["champions_league"]
 }
