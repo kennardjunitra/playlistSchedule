@@ -12,6 +12,7 @@
   "2026-01-12": ["serie_a", "bundesliga","custom"],
   "2026-01-21": ["champions_league"],
   "2026-01-22": ["champions_league"],
+  "2026-01-24": ["serie_a"],
   "2026-01-28": ["champions_league"],
   "2026-01-29": ["champions_league"]
 }
