@@ -15,6 +15,7 @@
   "2026-01-24": ["serie_a"],
   "2026-01-28": ["champions_league"],
   "2026-01-29": ["champions_league"],
+  "2026-02-20": ["doha", "europa_league"],
   "2026-02-21": ["serie_a"],
   "2026-02-22": ["serie_a"],
   "2026-02-23": ["serie_a"],
